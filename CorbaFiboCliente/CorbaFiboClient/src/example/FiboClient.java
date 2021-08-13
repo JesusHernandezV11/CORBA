@@ -11,10 +11,6 @@ import org.omg.CosNaming.NamingContextExt;
 import org.omg.CosNaming.NamingContextExtHelper;
 import org.omg.CORBA.Object;
 
-/**
- *
- * @author Mireille Betancourt
- */
 public class FiboClient {
      public static void main(String args[]){
          try{
